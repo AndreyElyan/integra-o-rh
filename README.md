@@ -26,15 +26,12 @@ O sistema iniciará uma verificação dos dados do arquivo, para que só grave, 
 Se o sistema não encontrar os dados necessários para integração contábil dos lançamentos, irá gerar um relatório, para que seja verificado com precisão o arquivo, antes de prosseguir com a importação.
 Após, a importação ter sido abortada, por algum erro, ou pelo usuário, será enviada para a aba ‘’Log de Execução’’ os erros que pararam a integração. 
 
-![image](https://user-images.githubusercontent.com/46023665/61898307-65368780-aeef-11e9-93d5-3e1a4a1d7e68.png)
+![image](https://user-images.githubusercontent.com/46023665/61898518-dece7580-aeef-11e9-84d1-253145ff3825.png)
+
 
 Caso a integração contábil, tenha sido realizada com sucesso, o sistema irá abrir uma janela informando a mensagem “ Lançamentos integrados na contabilidade com sucesso”.
 
-![image](https://user-images.githubusercontent.com/46023665/61898358-813a2900-aeef-11e9-8588-eb6318c7180d.png)
-
-
-
-
+![image](https://user-images.githubusercontent.com/46023665/61898582-0291bb80-aef0-11e9-800f-50388a5fd496.png)
 
 
 
