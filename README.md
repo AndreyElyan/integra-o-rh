@@ -14,5 +14,7 @@ Para iniciar a integração contábil dos registros, será feito os seguintes pa
 Acessando o Menu “Contabilidade > Integrações > RH”, na aba “Importação SAP”, será necessário importar o arquivo em formato txt, informar os parâmetros, se necessários, e clicar no botão
 Iniciar Importação.
 
+![image](https://user-images.githubusercontent.com/46023665/61897974-b7c37400-aeee-11e9-8c28-e02d2eaa7091.png)
+
 
 
